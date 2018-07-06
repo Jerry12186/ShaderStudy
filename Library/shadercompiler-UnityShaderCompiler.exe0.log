@@ -1,0 +1,113 @@
+Base path: E:/Unity/Editor/Data
+Cmd: initializeCompiler
+Cmd: preprocess
+  insize=1131 outsize=989 ok=1
+Cmd: preprocess
+  insize=646 outsize=851 ok=1
+Cmd: preprocess
+  insize=835 outsize=949 ok=1
+Cmd: preprocess
+  insize=1821 outsize=1130 ok=1
+Cmd: preprocess
+  insize=1080 outsize=1000 ok=1
+Cmd: preprocess
+  insize=1080 outsize=1000 ok=1
+Cmd: preprocess
+  insize=1821 outsize=1130 ok=1
+Cmd: preprocess
+  insize=1131 outsize=989 ok=1
+Cmd: preprocess
+  insize=835 outsize=949 ok=1
+Cmd: preprocess
+  insize=646 outsize=851 ok=1
+Cmd: preprocess
+  insize=1384 outsize=1155 ok=1
+Cmd: preprocess
+  insize=1386 outsize=1157 ok=1
+Cmd: preprocess
+  insize=1386 outsize=1157 ok=1
+Cmd: preprocess
+  error: 1 plat 20 at (15): Unrecognized #pragma surface directive: verter:vert
+  error: 2 plat 20 at (23): Unexpected token ')'. Expected one of: sampler sampler1D sampler2D sampler3D samplerCUBE sampler_state SamplerState SamplerComparisonState bool int uint half float double or a user-defined type
+  insize=320 outsize=466 ok=0
+Cmd: preprocess
+  error: 1 plat 20 at (15): Unrecognized #pragma surface directive: verter:vert
+  error: 2 plat 20 at (23): Unexpected identifier "Inout". Expected one of: sampler sampler1D sampler2D sampler3D samplerCUBE sampler_state SamplerState SamplerComparisonState bool int uint half float double or a user-defined type
+  insize=354 outsize=475 ok=0
+Cmd: preprocess
+  error: 1 plat 20 at (15): Unrecognized #pragma surface directive: verter:vert
+  error: 2 plat 20 at (23): Unexpected identifier "Inout". Expected one of: sampler sampler1D sampler2D sampler3D samplerCUBE sampler_state SamplerState SamplerComparisonState bool int uint half float double or a user-defined type
+  insize=476 outsize=475 ok=0
+Cmd: preprocess
+  error: 1 plat 20 at (17): Unrecognized #pragma surface directive: verter:vert
+  error: 2 plat 20 at (25): Unexpected identifier "Inout". Expected one of: sampler sampler1D sampler2D sampler3D samplerCUBE sampler_state SamplerState SamplerComparisonState bool int uint half float double or a user-defined type
+  insize=507 outsize=488 ok=0
+Cmd: preprocess
+  error: 1 plat 20 at (17): Unrecognized #pragma surface directive: verter:vert
+  error: 2 plat 20 at (25): Unexpected identifier "Inout". Expected one of: sampler sampler1D sampler2D sampler3D samplerCUBE sampler_state SamplerState SamplerComparisonState bool int uint half float double or a user-defined type
+  insize=508 outsize=491 ok=0
+Cmd: preprocess
+  error: 1 plat 20 at (17): Unrecognized #pragma surface directive: verter:vert
+  error: 2 plat 20 at (25): Unexpected identifier "Inout". Expected one of: sampler sampler1D sampler2D sampler3D samplerCUBE sampler_state SamplerState SamplerComparisonState bool int uint half float double or a user-defined type
+  insize=509 outsize=491 ok=0
+Cmd: preprocess
+  error: 1 plat 20 at (17): Unrecognized #pragma surface directive: Verter:vert
+  error: 2 plat 20 at (25): Unexpected identifier "Inout". Expected one of: sampler sampler1D sampler2D sampler3D samplerCUBE sampler_state SamplerState SamplerComparisonState bool int uint half float double or a user-defined type
+  insize=509 outsize=491 ok=0
+Cmd: preprocess
+  error: 1 plat 20 at (17): Unrecognized #pragma surface directive: verter:vert
+  error: 2 plat 20 at (25): Unexpected identifier "Inout". Expected one of: sampler sampler1D sampler2D sampler3D samplerCUBE sampler_state SamplerState SamplerComparisonState bool int uint half float double or a user-defined type
+  insize=509 outsize=491 ok=0
+Cmd: preprocess
+  error: 1 plat 20 at (17): Unrecognized #pragma surface directive: verter:vert
+  error: 2 plat 20 at (25): Unexpected identifier "Inout". Expected one of: sampler sampler1D sampler2D sampler3D samplerCUBE sampler_state SamplerState SamplerComparisonState bool int uint half float double or a user-defined type
+  insize=503 outsize=491 ok=0
+Cmd: preprocess
+  error: 1 plat 20 at (17): Unrecognized #pragma surface directive: verter:vert
+  error: 2 plat 20 at (25): Unexpected identifier "Inout". Expected one of: sampler sampler1D sampler2D sampler3D samplerCUBE sampler_state SamplerState SamplerComparisonState bool int uint half float double or a user-defined type
+  insize=509 outsize=491 ok=0
+Cmd: preprocess
+  error: 1 plat 20 at (17): Unrecognized #pragma surface directive: verter:vert
+  error: 2 plat 20 at (25): Unexpected identifier "Inout". Expected: ')'
+  insize=509 outsize=333 ok=0
+Cmd: preprocess
+  error: 1 plat 20 at (17): Unrecognized #pragma surface directive: verter:vert
+  error: 2 plat 20 at (25): Unexpected identifier "Inout". Expected one of: sampler sampler1D sampler2D sampler3D samplerCUBE sampler_state SamplerState SamplerComparisonState bool int uint half float double or a user-defined type
+  insize=509 outsize=491 ok=0
+Cmd: preprocess
+  error: 1 plat 20 at (17): Unrecognized #pragma surface directive: verter:vert
+  error: 2 plat 20 at (18): Invalid #include directive
+  error: 2 plat 20 at (18): Unexpected token ';'. Expected one of: typedef const void inline uniform nointerpolation extern shared static volatile row_major column_major struct or a user-defined type
+  insize=539 outsize=495 ok=0
+Cmd: preprocess
+  error: 1 plat 20 at (17): Unrecognized #pragma surface directive: verter:vert
+  error: 2 plat 20 at (27): Unexpected identifier "Inout". Expected one of: sampler sampler1D sampler2D sampler3D samplerCUBE sampler_state SamplerState SamplerComparisonState bool int uint half float double or a user-defined type
+  insize=538 outsize=492 ok=0
+Cmd: preprocess
+  error: 1 plat 20 at (17): Unrecognized #pragma surface directive: verter:vert
+  error: 2 plat 20 at (26): Unexpected identifier "Inout". Expected one of: sampler sampler1D sampler2D sampler3D samplerCUBE sampler_state SamplerState SamplerComparisonState bool int uint half float double or a user-defined type
+  insize=511 outsize=492 ok=0
+Cmd: preprocess
+  error: 1 plat 20 at (17): Unrecognized #pragma surface directive: verter:vert
+  error: 2 plat 20 at (31): Unexpected identifier "Inout". Expected: ')'
+  insize=511 outsize=334 ok=0
+Cmd: preprocess
+  error: 1 plat 20 at (17): Unrecognized #pragma surface directive: verter:vert
+  error: 1 plat 1 at (28): implicit cast from "half4" to "float2"
+  error: 2 plat 1 at (33): swizzle mask element not present in operand "rgb"
+  insize=511 outsize=1081 ok=0
+Cmd: preprocess
+  error: 1 plat 20 at (17): Unrecognized #pragma surface directive: verter:vert
+  error: 1 plat 1 at (28): implicit cast from "half4" to "float2"
+  error: 2 plat 1 at (33): swizzle mask element not present in operand "rgb"
+  insize=495 outsize=1065 ok=0
+Cmd: preprocess
+  error: 1 plat 20 at (17): Unrecognized #pragma surface directive: verter:vert
+  error: 1 plat 1 at (28): implicit cast from "half4" to "float2"
+  error: 2 plat 1 at (33): swizzle mask element not present in operand "rgb"
+  insize=511 outsize=1081 ok=0
+Cmd: preprocess
+  error: 1 plat 20 at (17): Unrecognized #pragma surface directive: verter:vert
+  error: 1 plat 1 at (28): implicit cast from "half4" to "float2"
+  error: 2 plat 1 at (33): swizzle mask element not present in operand "rgb"
+  insize=512 outsize=1082 ok=0
